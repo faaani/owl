@@ -40,7 +40,7 @@ one. There can also be multiple apps loaded in the page like in the following:
 <img src="screenshots/multi_apps.png"/>
 
 There is a convenient search bar at the top of the components tree which will help finding
-the components tou want in the tree and also, an element picker can be used to directly select
+the components you want in the tree and also, an element picker can be used to directly select
 the component you want to focus on in the page which is especially useful when trying to find
 what you want. Just click on the elements picker icon and click on the element you want to focus
 on in the page and it will be selected in the devtools accordingly. Hovering any element in the
